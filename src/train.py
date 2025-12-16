@@ -7,7 +7,6 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-
 DATA_PATH = "data/Train.csv"
 TARGET_COL = "Reached.on.Time_Y.N"
 
