@@ -25,7 +25,7 @@ Learned:
 Details:
 1. Learned how git add, git commit, and git push work together.
 2. I understood that commits save the state of my project.
-3. I learned to use `git status` to track changes.
+3. I learned to use git status to track changes.
 
 Day: Tuesday, 18 November
 Learned:
@@ -67,7 +67,7 @@ Details:
 Day: Monday, 1 December
 Learned:
 1. How to create plots with Seaborn
-2. How to understand `sns.boxplot`
+2. How to understand sns.boxplot
 Details:
 1. Created plots comparing late and on-time deliveries.
 2. I learned how to read a box plot step by step.
@@ -129,3 +129,4 @@ Details:
 4. Created the presentation.
 5. Wrote the process book.
 6. I committed and pushed the final version to GitHub.
+
